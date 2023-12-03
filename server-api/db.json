@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "id": "bf25d5bf-18f4-4700-b05a-cffdc690245e",
+      "name": "pune1",
+      "email": "Gajananpatil234@gmail.com"
+    },
+    {
+      "id": "486ffd41-69b8-4826-94b1-b03db44983c1",
+      "name": "mumbai",
+      "email": "pranavlande1@gmail.com"
+    }
+  ],
+  "login": [
+    {
+      "username": "admin",
+      "pass": "admin"
+    },
+    {
+      "id": "a2d1907e-1da0-4fc7-8187-26e3a498005a",
+      "username": "zenith",
+      "pass": "Pass@123"
+    },
+    {
+      "id": "fd7d1b57-57f0-4079-a8e4-23e0cf75065e",
+      "username": "zenith",
+      "pass": "Pass@123"
+    },
+    {
+      "id": "55fd4716-c338-4128-a1c4-ba2bc0a3ee5e",
+      "username": "zenith",
+      "pass": "Pass@123"
+    }
+  ]
+}

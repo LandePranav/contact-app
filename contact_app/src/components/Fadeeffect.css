@@ -1,0 +1,10 @@
+.fade {
+    color: green;
+    opacity: 1;
+    transition: opacity 4s ease-in-out;
+  }
+  
+.fading {
+    opacity: 0;
+  }
+  
